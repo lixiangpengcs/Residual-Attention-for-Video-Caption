@@ -1,2 +1,5 @@
 # Residual-Attention-for-Video-Caption
-work as my graduation project
+I construct this project as my graduation project. And Res-Att.pdf is my graduation paper which is written in Chinese.
+
+#Some Problem:
+Due to the large scale of dataset: MSVD and MSR-VTT, I will upload extracted feature recently.
