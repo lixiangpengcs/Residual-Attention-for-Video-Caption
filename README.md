@@ -1,6 +1,6 @@
 #Residual Attention-based LSTM for Video Caption
 
-this is an implementation for "Residual Attention-based LSTM for Video Caption"
+An implementation for paper "Residual Attention-based LSTM for Video Caption"
 
 ##Requirements
 
