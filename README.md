@@ -3,6 +3,7 @@
 this is an implementation for "Residual Attention-based LSTM for Video Caption"
 
 ##Requirements
+
  Python 2.7.6
 
  Theano 0.8.2
