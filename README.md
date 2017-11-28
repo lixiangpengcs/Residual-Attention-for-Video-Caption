@@ -11,7 +11,7 @@ An implementation for paper "Residual Attention-based LSTM for Video Caption"
 ##processed data
 
  You need to download pretrained resnet model for extracting features.
- We will provide our extracted video feature and processed caption recently.
+ We provide our extracted ResNet video feature and processed caption in:https://drive.google.com/open?id=1HymvVvAEygM6UJm41dQkQ4IbTWcHT0iQ. Download this dataset and replace RAB_FEATURE_BASE_PATH in config.py with your feature path and replace RAB_DATASET_BASE_PATH in config.py with your processed data path. Besides, you should assign where to store your result in config.py.
 
 ##Evaluation
 
