@@ -22,3 +22,17 @@ An implementation for paper "Residual Attention-based LSTM for Video Caption": h
 ## Others
 
  If you have any questions, drop us email at:xiangpengli.cs@gmail.com
+
+
+```
+@article{li2019residual,
+  title={Residual attention-based LSTM for video captioning},
+  author={Li, Xiangpeng and Zhou, Zhilong and Chen, Lijiang and Gao, Lianli},
+  journal={World Wide Web},
+  volume={22},
+  number={2},
+  pages={621--636},
+  year={2019},
+  publisher={Springer}
+}
+```
